@@ -1,4 +1,3 @@
-chichi5454/README.md
 Hi, I'm Lauryn 👋
 
 - 👀 I'm a Front-End Developer
