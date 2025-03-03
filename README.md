@@ -11,6 +11,7 @@ Hi, I'm Lauryn 👋
 - HTML
 - CSS
 - React JS
-- Bootstrap  
+- Next JS
+- Tailwind CSS 
 
 
