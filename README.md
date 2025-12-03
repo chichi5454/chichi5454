@@ -2,8 +2,8 @@ Hi, I'm Lauryn junior Fullstack Developer — MERN stack & Tailwind
 
 -I build scalable, high-performance web applications and enterprise-grade dashboards using Next.js, React.js, TypeScript, Node.js, Express.js, and Tailwind CSS. I’m passionate about clean, maintainable code, seamless frontend-backend integration, and intuitive user experiences.
 
-🌱 PLP Academy Software Engineering Alumni – February 2025 Cohort
-📫 Reach me: laurrynchepchirchir@gmail.com
+- 🌱 PLP Academy Software Engineering Alumni – February 2025 Cohort
+- 📫 Reach me: laurrynchepchirchir@gmail.com
 
 Tech Stack
 
