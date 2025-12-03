@@ -7,10 +7,10 @@ Hi, I'm Lauryn junior Fullstack Developer — MERN stack & Tailwind
 
 Tech Stack
 
-Frontend: Next.js, React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
-Backend: Node.js, Express.js, MongoDB, SQL, REST APIs
-Tools & Workflow: Git, GitHub, VS Code, Postman, CI/CD, Deployment
-Other: Component Architecture, Responsive Design, Accessibility, SEO, Performance Optimization
+- Frontend: Next.js, React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
+- Backend: Node.js, Express.js, MongoDB, SQL, REST APIs
+- Tools & Workflow: Git, GitHub, VS Code, Postman, CI/CD, Deployment
+- Other: Component Architecture, Responsive Design, Accessibility, SEO, Performance Optimization
 
 What I Build;
 - Modern dashboards & admin systems
